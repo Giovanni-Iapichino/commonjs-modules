@@ -6,6 +6,4 @@ const name = (firstName, lastName) => ({
   lastName,
 });
 
-module.exports = {
-  name,
-};
+module.exports = name;
